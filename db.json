@@ -2,10 +2,10 @@
     "users": [
       {
         "id": 1,
-        "name": "Carlos Mendoza",
-        "gender": "male",
-        "age": 34,
-        "role": "Software Engineer"
+        "name": "Vargas Flores Jhon Alberto",
+        "gender": "Masculino",
+        "age": 25,
+        "role": "Estudiante Ing Ciencias de la computacion"
       },
       {
         "id": 2,
